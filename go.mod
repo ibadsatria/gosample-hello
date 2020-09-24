@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/ibadsatria/gosample-hello
 
 go 1.14
 
